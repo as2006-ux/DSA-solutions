@@ -16,6 +16,6 @@ This repository contains solutions to Data Structures and Algorithms problems.
 ## Languages Used
 - C
 - C++
-- Java
+  
 
 Total Problems Solved: 30+
